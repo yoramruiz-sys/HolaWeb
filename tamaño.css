@@ -1,0 +1,9 @@
+.cambio{
+    color:rgb(255, 251, 9);
+}
+@media(min-width:500px){
+    h1{
+        font-size: 80px;
+    color: blue;
+}
+}
